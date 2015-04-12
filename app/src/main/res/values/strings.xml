@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Training Timer</string>
 
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    //Button
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_pause">Pause</string>
 </resources>

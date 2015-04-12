@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonBack">#ff1ab70f</color>
+    <color name="primary">#ff1ab70f</color>
+    <color name="primaryDark">#ff146e0d</color>
+    <color name="textPrimary">@color/abc_primary_text_material_dark</color>
+    <color name="textPrimaryDark">#000000</color>
+    <color name="btnTextPrimary">#FFFF</color>
+</resources>
